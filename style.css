@@ -1,0 +1,23 @@
+
+    body{
+        background-color: white;
+        color:rgb(217 65 65);
+    }
+    .mydark{
+        background-color: rgb(217 65 65);
+        color: white;
+    }
+    #coupon{
+      height: 279px;
+      width: 543px;
+      background-image: url(couponimg.jpg);
+      z-index: 100;
+      margin: auto;
+      position: absolute;
+      margin-left: 25%;
+      margin-top: 7%;
+      visibility: hidden;
+    }
+    #weatherout{
+      color: black;
+    }
