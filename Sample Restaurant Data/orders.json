@@ -1,0 +1,79 @@
+[
+{
+    "_id":{"$oid":"6256fb34844264c34cb6125a"},
+    "name":"Sasikala",
+    "email":"sashikala0000@gmail.com",
+    "address":"dno:4-348,high school road, madhavapatnam",
+    "phone":{"$numberDouble":"8688145688.0"},
+    "cost":{"$numberInt":"600"},
+    "menuItem":
+    [
+        {"$numberInt":"3"},
+        {"$numberInt":"5"},
+        {"$numberInt":"7"}
+    ],
+    "status":"Pending"
+},
+{
+    "_id":{"$oid":"6256fbab844264c34cb6125b"},
+    "name":"Sasikala",
+    "email":"sashikala0000@gmail.com",
+    "address":"dno:4-348,high school road, madhavapatnam",
+    "phone":{"$numberDouble":"8688145688.0"},
+    "cost":{"$numberInt":"600"},
+    "menuItem":
+    [
+        {"$numberInt":"3"},
+        {"$numberInt":"5"},
+        {"$numberInt":"7"}
+    ],
+    "status":"Pending"
+},
+{
+    "_id":{"$oid":"6256fee0af2bbac7eefeb6e8"},
+    "name":"Sasikala",
+    "email":"sashikala0000@gmail.com",
+    "address":"dno:4-348,high school road, madhavapatnam",
+    "phone":{"$numberDouble":"8688145688.0"},
+    "cost":{"$numberInt":"999"},
+    "menuItem":
+    [
+        {"$numberInt":"21"},
+        {"$numberInt":"33"},
+        {"$numberInt":"41"}
+    ],
+    "status":"Pending"
+},
+{
+    "_id":{"$oid":"6256ff63af2bbac7eefeb6e9"},
+    "name":"Sudha",
+    "email":"sudha@gmail.com",
+    "address":"dno:4-348,ramalayam street, madhavapatnam",
+    "phone":{"$numberDouble":"6301393002.0"},
+    "cost":{"$numberInt":"999"},
+    "menuItem":
+    [
+        {"$numberInt":"21"},
+        {"$numberInt":"33"},
+        {"$numberInt":"41"}
+    ],
+        "status":"In Transit",
+        "bank_name":"Axis Bank"
+},
+{
+    "_id":{"$oid":"6256ff72af2bbac7eefeb6ea"},
+    "name":"Sudha",
+    "email":"sudha@gmail.com",
+    "address":"dno:4-348,ramalayam street, madhavapatnam",
+    "phone":{"$numberDouble":"6301393002.0"},
+    "cost":{"$numberInt":"999"},
+    "menuItem":
+    [
+        {"$numberInt":"1"},
+        {"$numberInt":"33"},
+        {"$numberInt":"51"}
+    ],
+    "status":"Delivered",
+    "bank_name":"SBI"
+}
+]
